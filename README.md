@@ -1,8 +1,3 @@
-# OOP coursework☀️
-## Name and Student ID🎁
-Martin Chan: 23126386     
-Ningwei Bai: 23059619
-
 ## Project Overview🎋
 This coursework is for COMP0213: Object-Oriented Programming for Robotics and Artificial Intelligence. The project uses the PyBullet library in Python for simulations to generate data on whether an object can be grasped. The goal is to train a machine learning model to predict whether specific parameters can successfully grasp an object. The project includes two robotic hand models and two object models, creating four combinations to collect data for machine learning.
 
